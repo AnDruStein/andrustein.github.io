@@ -12,7 +12,7 @@ function sleep(ms)
 
 async function validate()
 {
-    if(passcode.value == "1")
+    if(passcode.value == "40102541013")
     {
         message_panel.style.height = "100%";
         background.style.top = "0";
