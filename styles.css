@@ -12,7 +12,7 @@ textarea {
     transition: 0.3s;
     cursor: text;
     overflow: hidden;
-    
+    padding-left: 10px;
 }
 
 textarea:focus {
