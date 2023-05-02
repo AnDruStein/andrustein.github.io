@@ -65,7 +65,7 @@ body {
   user-select: none;
   -webkit-user-select: none;
   touch-action: manipulation;
-  bottom: 1.65vh;
+  bottom: 2vh;
 }
 
 .button-57 span:first-child {
